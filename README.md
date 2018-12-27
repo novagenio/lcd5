@@ -1,3 +1,10 @@
+Step3, Method 1: online installation
+1) Log onto the Raspberry Pi users system to command line (The initial user name: pi Password: raspberry) 
+2) Execute the following command in SSH: 
+ git clone https://github.com/goodtft/LCD-show.gitchmod -R 755 LCD-show cd LCD-show/ sudo ./LCD35-show 
+3)Wait a few minutes,the system will restart automaticall , enjoy with your LCD
+
+
 How to Calibrate the Touch Screen 
 
 Install Xinput
