@@ -22,10 +22,5 @@ DISPLAY=:0.0 xinput_calibratorudas ver video
   https://www.youtube.com/watch?v=n1COKzM1FlI 
   
   
-  Cuando la posicion del cursor esta rotada.
   
-  sudo nano ~/.kivy/config.ini
-  [input]
-mouse = mouse
-hid_%(name)s = probesysfs, provider=hidinput,param=invert_y=0
 
